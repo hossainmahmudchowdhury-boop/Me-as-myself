@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hossainmahmudchowdhury@gmail.com**
 
-- ⚡ Fun fact **I thing mysteris which is not describe as mystery.**
+- ⚡ Fun fact **I think mystery, which is not described as mystery.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
