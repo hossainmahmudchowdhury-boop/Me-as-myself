@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hossain Mahmud Chowdhury</h1>
 <h3 align="center">An Robotics & Programming enthusiastic.</h3>
 
-https://github.com/hossainmahmudchowdhury-boop/Me-as-myself/blob/main/myself.jpeg
+![image alt](https://github.com/hossainmahmudchowdhury-boop/Me-as-myself/blob/main/myself.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainmahmudchowdhury-boop&label=Profile%20views&color=0e75b6&style=flat" alt="hossainmahmudchowdhury-boop" /> </p>
 
